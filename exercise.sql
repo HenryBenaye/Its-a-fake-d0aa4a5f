@@ -1,5 +1,2 @@
-update planeten
-set 
-	naam = 'Teenalp'
-where
-	id = 6;
+delete from planeten
+where id = 6;
